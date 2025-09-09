@@ -2,6 +2,15 @@
 
 A Flutter-based short-video feed application inspired by Instagram Reels, featuring auto-play videos, seamless scrolling, and offline functionality.
 
+## 📹 App Demo
+
+🎬 **[View Demo Video](https://drive.google.com/file/d/1TsSrwNUlSlOzV95uR3R7EXdHcJwW9LAL/view?usp=sharing)** (1:30 min, 66MB)
+
+- ✅ Vertical video scrolling with auto-play
+- ✅ Multiple video selection 
+- ✅ Like animations & view counting
+- ✅ Seamless video transitions
+
 ## Features
 
 ### ✅ Core Features Implemented
