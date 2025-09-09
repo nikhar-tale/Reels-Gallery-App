@@ -245,7 +245,6 @@ flutter run
 
 ---
 
-**Development Time**: ~8-10 hours
 **Flutter Version**: 3.0+
 **Target Platforms**: Android & iOS
 
