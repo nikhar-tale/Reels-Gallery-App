@@ -105,7 +105,7 @@ lib/
 
 1. **Clone and Setup**
 ```bash
-git clone <repository-url>
+git clone https://github.com/nikhar-tale/Reels-Gallery-App.git
 cd reels_gallery_app
 flutter pub get
 ```
